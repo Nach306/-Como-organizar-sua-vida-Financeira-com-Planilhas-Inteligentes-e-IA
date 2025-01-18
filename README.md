@@ -1,5 +1,7 @@
 # -Como-organizar-sua-vida-Financeira-com-Planilhas-Inteligentes-e-IA
+
  Como organizar sua vida Financeira com Planilhas Inteligentes e IA
+ - [Clique aqui para conferir](https://github.com/Nach306/-Como-organizar-sua-vida-Financeira-com-Planilhas-Inteligentes-e-IA/blob/main/PLANILHA_DIO.xlsx)
 
 ## 💻 Tecnologias utilizadas no projeto
 
